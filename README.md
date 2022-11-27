@@ -26,7 +26,7 @@ Project Team Details:
 ----------------------------
 Pavankumar Hegde	- Backend
 
-Shuchit B U      	- Frontend
+Shuchith B U      	- Frontend
 
 Siddharth M		    - Database Designer
 
