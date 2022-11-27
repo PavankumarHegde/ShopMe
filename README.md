@@ -20,6 +20,9 @@ $db='databasename';
 Project Team Details:
 ----------------------------
 Pavankumar Hegde	- Backend
+
 Shuchit B U      	- Frontend
+
 Siddarth MP		- Database Designer
+
 Siddarth MP		- Testing
