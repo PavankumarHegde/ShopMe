@@ -28,7 +28,7 @@ Pavankumar Hegde	- Backend
 
 Shuchit B U      	- Frontend
 
-Siddarth MP		    - Database Designer
+Siddharth M		    - Database Designer
 
 Siddarth MP		    - Testing
 
