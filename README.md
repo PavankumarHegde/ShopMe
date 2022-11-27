@@ -1,6 +1,7 @@
+# Software Engineering Mini Project : UE20CS303
+
 # ShopMe
 
-# Software Engineering Mini Project : UE20CS303
 ShopMe is one of the ecommerce web application writter using html, php, css, js.
 
 ShopMe is a Mini Project project which is made by PES University students. 
